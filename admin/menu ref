@@ -1,0 +1,14 @@
+<h2> Admin menu </h2>
+        <div>
+        <ul>
+            <li><a href="addcatform.php">Add category</a></li> 
+            <li><a href="viewcat.php">Add Product</a></li>
+            <li><a href="viewcat.php">View Category</a></li>
+            <li><a href="viewcustomer.php">View Customer</a></li>
+            <li><a href="viewproduct.php">View Product</a></li>
+            <li><a href="viewordersadmin.php">View Orders</a></li>
+            <li><a href="reportform.php">Amount Report</a></li>
+            <li><a href="changepwdform.php">Change Password</a></li>
+            <li><a href="adminlogout.php">Log Out</a></li> 
+        </ul>
+        </div>

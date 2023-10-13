@@ -1,0 +1,14 @@
+<h2> Customer menu </h2>
+        <div>
+        <ul>
+            <li><a href="mydetails.php">My details</a></li>
+            <li><a href="customerchangepwdform.php">Change Password</a></li>
+            <li><a href="searchform.php">search product </a></li>
+            <li><a href="browsecategories.php">Browse Category</a></li>
+            <li><a href="viewcart.php">View Cart</a></li>
+            <li><a href="vieworders.php">View Orders</a></li>
+            <li><a href="paymentform.php">Payment</a></li>
+            <li><a href="feedbackform.php">Feedback</a></li>
+            <li><a href="customerlogout.php">Log Out</a></li> 
+        </ul>
+        </div>

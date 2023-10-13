@@ -1,0 +1,9 @@
+<?php
+    session_start();
+    if(empty($_SESSION))
+        {
+            header('location:../customersigninform.php');
+        }
+    session_destroy();
+    header('location:../customersigninform.php');
+?>
